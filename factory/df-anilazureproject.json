@@ -1,0 +1,15 @@
+{
+	"name": "df-anilazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dd503054-2b92-483a-964d-70f0b59c50cf",
+		"tenantId": "f2719571-351d-495c-a252-877647c262cd"
+	}
+}
